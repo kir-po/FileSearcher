@@ -1,0 +1,10 @@
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\bin\Release\FileSearcher.exe.config
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\bin\Release\FileSearcher.exe
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\bin\Release\FileSearcher.pdb
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.fMain.resources
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.Properties.Resources.resources
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.GenerateResource.cache
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.exe
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.pdb
+C:\Users\kiril\Desktop\FileSearcher\FileSearcher\obj\Release\FileSearcher.csprojAssemblyReference.cache
